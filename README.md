@@ -1,5 +1,5 @@
 # K&R-resources
-Collecting the tutorials like K&amp;R style
+Collecting the tutorials like K&amp;R style.
 
 # Programming language
 [K&R](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628/ref=sr_1_1?crid=292KJTRPGD1PH&dchild=1&keywords=the+c+programming+language&qid=1610809912&sprefix=the+C+pr%2Caps%2C434&sr=8-1) by Brian W. Kernighan  (Author), Dennis M. Ritchie      
